@@ -9,3 +9,6 @@ Display a scrambled list that can be sorted with drag and drop
 - Allow user to drag and drop an item to a different position
 - Button to check if items are in correct order
 - Show green for correct order and red for wrong order
+
+#this project part of 20 Web Projects With Vanilla JavaScript by Brad Traversy
+
